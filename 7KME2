@@ -647,6 +647,146 @@ end
 
 sfTab:AddButton({
 
+	Name = "BOT PEOPLE",
+
+	Callback = function()
+
+      		wait(1)
+
+local args = {
+
+    [1] = ";morph me d"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";morph me noob1"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";char"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 62234425"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 63690008"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4047554959"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4094878701"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 3409612660"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 451220849"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 62724852"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4246228452"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 48474313"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+    game:GetService("StarterGui"):SetCore("SendNotification", { 
+
+        Title = "اكتملت الhats بنجاح";
+
+        Text = "انتقل الى GUIS وفعل السكربت";
+
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+
+    Duration = 32;
+
+end
+
+})
+
+sfTab:AddButton({
+
 	Name = "BIG SPIDER",
 
 	Callback = function()
@@ -795,6 +935,66 @@ end
 
 })
 
+sfTab:AddButton({
+
+	Name = "BIG SPIDER",
+
+	Callback = function()
+
+      		wait(1)
+
+local args = {
+
+    [1] = ";morph me d"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";morph me noob1"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";char"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 7548993875"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+
+        Title = "اكتملت الhats بنجاح";
+
+        Text = "انتقل الى GUIS وفعل السكربت";
+
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+
+    Duration = 32;
+
+end
+
+})
+
 zTab:AddButton({
 
 	Name = "ANTIBANG",
@@ -851,6 +1051,20 @@ end
 
 gTab:AddButton({
 
+	Name = "r15 to r6",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gelatekussy/GelatekHub/main/Main.lua"))()
+
+end
+
+}) 
+
+gTab:AddButton({
+
 	Name = "ROXY HUB",
 
 	Callback = function()
@@ -886,6 +1100,20 @@ gTab:AddButton({
         --[[DARK16#7037]]--
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rouxhaver/scripts/main/FE%20pet%20Snakes.Lua", true))()
+
+end
+
+}) 
+
+gTab:AddButton({
+
+	Name = "BOT PEOPLE",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rouxhaver/scripts/main/FE%20little%20people.Lua'))()
 
 end
 
