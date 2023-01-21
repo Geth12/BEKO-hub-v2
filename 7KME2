@@ -191,7 +191,7 @@ sfTab:AddButton({
 
 	Callback = function()
 
-      		wait(1)
+      		wait(0.50)
 
 local args = {
 
@@ -201,7 +201,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -211,7 +211,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -221,7 +221,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -231,7 +231,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -241,7 +241,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -251,7 +251,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -261,7 +261,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -271,7 +271,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -281,7 +281,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -291,7 +291,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -301,7 +301,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -311,7 +311,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -321,7 +321,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -331,7 +331,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -341,7 +341,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -351,7 +351,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -361,7 +361,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -371,7 +371,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -381,7 +381,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -391,7 +391,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -401,7 +401,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -411,7 +411,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -421,7 +421,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -431,7 +431,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -441,7 +441,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -451,7 +451,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -461,7 +461,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -471,7 +471,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -501,7 +501,7 @@ sfTab:AddButton({
 
 	Callback = function()
 
-      		wait(1)
+      		wait(0.50)
 
 local args = {
 
@@ -511,7 +511,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -521,7 +521,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -531,7 +531,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -541,7 +541,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -551,7 +551,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -571,7 +571,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -581,7 +581,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -591,7 +591,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -601,7 +601,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -611,7 +611,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -621,7 +621,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -651,7 +651,7 @@ sfTab:AddButton({
 
 	Callback = function()
 
-      		wait(1)
+      		wait(0.50)
 
 local args = {
 
@@ -661,7 +661,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -671,7 +671,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -681,7 +681,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -691,7 +691,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -701,7 +701,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -711,7 +711,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -721,7 +721,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -731,7 +731,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -741,7 +741,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -751,7 +751,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -761,7 +761,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -791,7 +791,7 @@ sfTab:AddButton({
 
 	Callback = function()
 
-      		wait(1)
+      		wait(0.50)
 
 local args = {
 
@@ -801,7 +801,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -811,7 +811,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -821,7 +821,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -831,7 +831,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -841,7 +841,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -851,7 +851,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -861,7 +861,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -871,7 +871,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -881,7 +881,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -891,7 +891,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -901,7 +901,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -911,7 +911,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -937,11 +937,11 @@ end
 
 sfTab:AddButton({
 
-	Name = "BIG SPIDER",
+	Name = "SWORD",
 
 	Callback = function()
 
-      		wait(1)
+      		wait(0.50)
 
 local args = {
 
@@ -951,7 +951,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -961,7 +961,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -971,7 +971,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(1)
+wait(0.50)
 
 local args = {
 
@@ -1128,6 +1128,20 @@ gTab:AddButton({
         --[[DARK16#7037]]--
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/Sipder'),true))()
+
+end
+
+}) 
+
+gTab:AddButton({
+
+	Name = "SWORD",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet(('https://pastefy.ga/CmEmsk1C/raw'),true))()
 
 end
 
