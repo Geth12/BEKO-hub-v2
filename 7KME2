@@ -181,7 +181,7 @@ local zTab = Window:MakeTab({
 
 local Section = zTab:AddSection({
 
-	Name = "SCRIPTS"
+	Name = "HATS"
 
 })
 
@@ -937,7 +937,7 @@ end
 
 zTab:AddButton({
 
-	Name = "BIG SPIDER",
+	Name = "HAND",
 
 	Callback = function()
 
@@ -1325,7 +1325,7 @@ end
 
 })
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "PP V2",
 
@@ -1465,7 +1465,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "سحب اكواد",
 
