@@ -35,7 +35,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 local Window = OrionLib:MakeWindow({Name = "BEKO HUB | 2V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
 
-local hTab = Window:MakeTab({
+local hoTab = Window:MakeTab({
 
 	Name = "HOME",	Icon = "rbxassetid://4483345998",
 
