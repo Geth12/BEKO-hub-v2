@@ -1075,6 +1075,8 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 
         Title = "اكتملت الhats بنجاح";
 
+        Text = "يمديك تفعل الحين";
+
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
     Duration = 32;
@@ -1313,7 +1315,7 @@ local Section = gTab:AddSection({
 
 })
 
-sfTab:AddButton({
+gTab:AddButton({
 
 	Name = "Synapse x",
 
@@ -1353,7 +1355,7 @@ end
 
 })
 
-sfTab:AddButton({
+gTab:AddButton({
 
 	Name = "r15 to r6",
 
@@ -1467,7 +1469,7 @@ end
 
 sfTab:AddButton({
 
-	Name = "سحب اكواد",
+	Name ="Stealing codes",
 
 	Callback = function()
 
@@ -1479,7 +1481,7 @@ end
 
 })
 
-sfTab:AddButton({
+gTab:AddButton({
 
  Name = "ANIMATION",
 
@@ -1519,7 +1521,7 @@ local Section = sexTab:AddSection({
 
 
 
-hoTab:AddButton({
+hTab:AddButton({
 
  Name = "KEYBOARD",
 
