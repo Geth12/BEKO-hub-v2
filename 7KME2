@@ -171,7 +171,7 @@ local Section = sfTab:AddSection({
 
 local zTab = Window:MakeTab({
 
-	Name = "SCRIPTS",
+	Name = "HATS",
 
 	Icon = "rbxassetid://4483345998",
 
@@ -185,7 +185,7 @@ local Section = zTab:AddSection({
 
 })
 
-sfTab:AddButton({
+hTab:AddButton({
 
 	Name = "EFFECTS",
 
@@ -495,7 +495,7 @@ end
 
 })
 
-sfTab:AddButton({
+hTab:AddButton({
 
 	Name = "BOT SNAKE",
 
@@ -645,7 +645,7 @@ end
 
 })
 
-sfTab:AddButton({
+hTab:AddButton({
 
 	Name = "BOT PEOPLE",
 
@@ -785,7 +785,7 @@ end
 
 })
 
-sfTab:AddButton({
+hTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -935,7 +935,7 @@ end
 
 })
 
-sfTab:AddButton({
+hTab:AddButton({
 
 	Name = "SWORD",
 
@@ -1023,7 +1023,7 @@ local Section = gTab:AddSection({
 
 })
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "Synapse x",
 
@@ -1035,7 +1035,7 @@ end
 
 })
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "DACCA HUB",
 
@@ -1049,7 +1049,7 @@ end
 
 })
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "r15 to r6",
 
@@ -1063,7 +1063,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "ROXY HUB",
 
@@ -1077,7 +1077,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "NOKIA HUB",
 
@@ -1091,7 +1091,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "BOT SNAKE",
 
@@ -1105,7 +1105,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "BOT PEOPLE",
 
@@ -1119,7 +1119,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -1133,7 +1133,7 @@ end
 
 }) 
 
-gTab:AddButton({
+sfTab:AddButton({
 
 	Name = "SWORD",
 
