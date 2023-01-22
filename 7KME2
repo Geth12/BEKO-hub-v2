@@ -2,7 +2,7 @@ local Allowed = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bekon
 
 if Allowed[game.Players.LocalPlayer.Name] then
 
-wait(0.5)
+wait(1)
 
 local args = {
 
@@ -33,7 +33,7 @@ else
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "BEKO HUB | 3V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
+local Window = OrionLib:MakeWindow({Name = "BEKO HUB | 2V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
 
 local hTab = Window:MakeTab({
 
@@ -55,7 +55,7 @@ hTab:AddButton({
 
 	Callback = function()
 
-      		wait(0.1)
+      		wait(1)
 
 local args = {
 
@@ -75,7 +75,7 @@ hTab:AddButton({
 
   Callback = function()
 
-          wait(0.1)
+          wait(1)
 
 local args = {
 
@@ -83,7 +83,7 @@ local args = {
 }
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(0.1)
+wait(1)
 
 local args = {
 
@@ -92,7 +92,7 @@ local args = {
 
 game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
 
-wait(0.1)
+wait(1)
 
 local args = {
 
@@ -1147,7 +1147,7 @@ end
 
 }) 
 
-gTab:AddButton({
+zTab:AddButton({
 
  Name = "ANIMATION",
 
@@ -1227,7 +1227,7 @@ local Section = sexTab:AddSection({
 
 
 
-hTab:AddButton({
+hoTab:AddButton({
 
  Name = "KEYBOARD",
 
