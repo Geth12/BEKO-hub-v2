@@ -35,7 +35,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 local Window = OrionLib:MakeWindow({Name = "BEKO HUB | 2V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
 
-local hoTab = Window:MakeTab({
+local hTab = Window:MakeTab({
 
 	Name = "HOME",	Icon = "rbxassetid://4483345998",
 
@@ -43,13 +43,13 @@ local hoTab = Window:MakeTab({
 
 })
 
-local Section = hoTab:AddSection({
+local Section = hTab:AddSection({
 
 	Name = "HOME"
 
 })
 
-hoTab:AddButton({
+hTab:AddButton({
 
 	Name = "RE",
 
@@ -69,7 +69,7 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 
 })
 
-hoTab:AddButton({
+hTab:AddButton({
 
   Name = "R6",
 
@@ -169,7 +169,7 @@ local Section = sfTab:AddSection({
 
 })
 
-local haTab = Window:MakeTab({
+local zTab = Window:MakeTab({
 
 	Name = "HATS",
 
@@ -179,13 +179,13 @@ local haTab = Window:MakeTab({
 
 })
 
-local Section = haTab:AddSection({
+local Section = zTab:AddSection({
 
 	Name = "SCRIPTS"
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "EFFECTS",
 
@@ -495,7 +495,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "BOT SNAKE",
 
@@ -645,7 +645,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "BOT PEOPLE",
 
@@ -785,7 +785,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -935,7 +935,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -1083,7 +1083,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "PP V2",
 
@@ -1223,7 +1223,7 @@ end
 
 })
 
-haTab:AddButton({
+zTab:AddButton({
 
 	Name = "SWORD",
 
