@@ -43,13 +43,13 @@ local hTab = Window:MakeTab({
 
 })
 
-local Section = hTab:AddSection({
+local Section = hoTab:AddSection({
 
 	Name = "HOME"
 
 })
 
-hTab:AddButton({
+hoTab:AddButton({
 
 	Name = "RE",
 
@@ -69,7 +69,7 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 
 })
 
-hTab:AddButton({
+hoTab:AddButton({
 
   Name = "R6",
 
@@ -169,7 +169,7 @@ local Section = sfTab:AddSection({
 
 })
 
-local zTab = Window:MakeTab({
+local haTab = Window:MakeTab({
 
 	Name = "HATS",
 
@@ -179,7 +179,7 @@ local zTab = Window:MakeTab({
 
 })
 
-local Section = zTab:AddSection({
+local Section = haTab:AddSection({
 
 	Name = "SCRIPTS"
 
@@ -635,7 +635,7 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 
         Title = "اكتملت الhats بنجاح";
 
-        Text = "انتقل الى GUIS وفعل السكربت";
+        Text = "انتقل الى FE SCRIPTوفعل الهاك";
 
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
@@ -775,7 +775,7 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 
         Title = "اكتملت الhats بنجاح";
 
-        Text = "انتقل الى GUIS وفعل السكربت";
+        Text = "نتقل الى FE SCRIPTوفعل الهاك";
 
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
@@ -937,6 +937,294 @@ end
 
 haTab:AddButton({
 
+	Name = "BIG SPIDER",
+
+	Callback = function()
+
+      		wait(1)
+
+local args = {
+
+    [1] = ";morph me d"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";morph me noob1"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";char"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 48474313"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4855525473"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 376524487"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 62234425"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 63690008"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 20372960"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 62724852"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 48474294"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 451220849"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 8337370"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+    game:GetService("StarterGui"):SetCore("SendNotification", { 
+
+        Title = "اكتملت الhats بنجاح";
+
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+
+    Duration = 32;
+
+end
+
+})
+
+haTab:AddButton({
+
+	Name = "PP V2",
+
+	Callback = function()
+
+      		wait(1)
+
+local args = {
+
+    [1] = ";morph me d"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";morph me noob1"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";char"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 3662265036"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 3409612660"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4645400486"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4047554959"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4584029953"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4622081834"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 3656493304"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 4094878701"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 3940375351"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+    game:GetService("StarterGui"):SetCore("SendNotification", { 
+
+        Title = "اكتملت الhats بنجاح";
+        
+        Text = "انتقل الى FE SCRIPTوفعل الهاك";
+        
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+
+    Duration = 32;
+
+end
+
+})
+
+haTab:AddButton({
+
 	Name = "SWORD",
 
 	Callback = function()
@@ -985,7 +1273,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 
         Title = "اكتملت الhats بنجاح";
 
-        Text = "انتقل الى GUIS وفعل السكربت";
+        Text = "انتقل الى FE SCRIPTوفعل الهاك";
 
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
@@ -994,6 +1282,8 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 end
 
 })
+
+
 
 gTab:AddButton({
 
@@ -1034,6 +1324,20 @@ sfTab:AddButton({
 end
 
 })
+
+gTab:AddButton({
+
+	Name = "PP V2",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Geth12/Jj/main/PP%20v2'),true))()
+
+end
+
+}) 
 
 sfTab:AddButton({
 
@@ -1107,6 +1411,20 @@ end
 
 sfTab:AddButton({
 
+	Name = "HAT HUB",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/1Cjz1RMH"))()
+
+end
+
+})
+
+sfTab:AddButton({
+
 	Name = "BOT PEOPLE",
 
 	Callback = function()
@@ -1147,54 +1465,28 @@ end
 
 }) 
 
-zTab:AddButton({
+gTab:AddButton({
+
+	Name = "سحب اكواد",
+
+	Callback = function()
+
+        --[[DARK16#7037]]--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/wN9Q3pZm",true))()
+
+end
+
+})
+
+sfTab:AddButton({
 
  Name = "ANIMATION",
 
  Callback = function()
 
-       function Animation(Character)
-
-    Character:WaitForChild'Animate'
-
-    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
-
-    for i, player in ipairs(game.Players:GetChildren()) do
-
-        local Animate = game.Players.LocalPlayer.Character.Animate
-
-        Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=782841498"
-
-        Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=782841498"
-
-        Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616168032"
-
-        Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616163682"
-
-        Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=1083218792"
-
-        Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=1083439238"
-
-        Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=707829716"
-
-        Animate.swim.Swim.AnimationId = "http://www.roblox.com/asset/?id=616165109"
-
-        Animate.swimidle.SwimIdle.AnimationId = "http://www.roblox.com/asset/?id=616166655"
-
-        game.Players.LocalPlayer.Character.Humanoid.Jump = false
-
-    end
-
-    wait(1)
-
-    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
-
-end
-
-Animation(game.Players.LocalPlayer.Character)
-
-game.Players.LocalPlayer.CharacterAdded:Connect(Animation)
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+       
 end
 
 })
@@ -1233,7 +1525,7 @@ hoTab:AddButton({
 
  Callback = function()
 
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+       loadstring(game:HttpGet(('https://raw.githubusercontent.com/Geth12/Jj/main/keyboard%20v2'),true))() 
 
 end
 
