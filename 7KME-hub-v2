@@ -32,7 +32,7 @@ else
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "Geth12 HUB | 2V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
+local Window = OrionLib:MakeWindow({Name = "BEKO HUB | 2V", HidePremium = false, IntroText = "BEKO HUB | 2V", SaveConfig = true, ConfigFolder = "BEKO HUB | 2V"})
 
 local hTab = Window:MakeTab({
 
@@ -644,7 +644,7 @@ end
 
 })
 
-gTab:AddButton({
+zTab:AddButton({
 
 	Name = "BOT PEOPLE",
 
@@ -786,7 +786,7 @@ end
 
 
 
-gTab:AddButton({
+zTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -935,7 +935,8 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
 end
 
 })
-gTab:AddButton({
+
+zTab:AddButton({
 
 	Name = "HAND",
 
@@ -1083,7 +1084,7 @@ end
 
 })
 
-gTab:AddButton({
+zTab:AddButton({
 
 	Name = "PP V2",
 
@@ -1223,7 +1224,7 @@ end
 
 })
 
-gTab:AddButton({
+zTab:AddButton({
 
 	Name = "SWORD",
 
@@ -1325,7 +1326,7 @@ end
 
 })
 
-gTab:AddButton({
+aTab:AddButton({
 
 	Name = "PP V2",
 
@@ -1339,7 +1340,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "DACCA HUB",
 
@@ -1367,7 +1368,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "ROXY HUB",
 
@@ -1381,7 +1382,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "NOKIA HUB",
 
@@ -1395,7 +1396,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "BOT SNAKE",
 
@@ -1409,7 +1410,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "HAT HUB",
 
@@ -1423,7 +1424,7 @@ end
 
 })
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "BOT PEOPLE",
 
@@ -1437,7 +1438,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "BIG SPIDER",
 
@@ -1451,7 +1452,7 @@ end
 
 }) 
 
-sfTab:AddButton({
+aTab:AddButton({
 
 	Name = "SWORD",
 
@@ -1465,7 +1466,7 @@ end
 
 }) 
 
-gTab:AddButton({
+aTab:AddButton({
 
 	Name = "سحب اكواد",
 
@@ -1479,7 +1480,7 @@ end
 
 })
 
-sfTab:AddButton({
+aTab:AddButton({
 
  Name = "ANIMATION",
 
